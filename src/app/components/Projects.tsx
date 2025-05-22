@@ -2,7 +2,7 @@
 
 import { projects } from '@/contents/projects'
 import Image from 'next/image'
-import { FaExternalLinkAlt, FaChevronDown, FaChevronUp } from 'react-icons/fa'
+import { FaChevronDown, FaChevronUp } from 'react-icons/fa'
 import { motion, AnimatePresence } from 'framer-motion'
 import { fadeInUp, staggerContainer, cardHoverSmall } from '@/utils/animations'
 import { useState } from 'react'

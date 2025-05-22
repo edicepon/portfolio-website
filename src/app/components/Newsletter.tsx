@@ -8,7 +8,7 @@ export default function Collaboration() {
               <div>
                 <h2 className="text-2xl font-bold mb-4">Collaborate with Me</h2>
                 <p className="text-gray-600 dark:text-gray-300">
-                  Interested in working together on innovative projects? Let's connect and explore potential opportunities in AI, healthcare technology, or software development.
+                  Interested in working together on innovative projects? Let&apos;s connect and explore potential opportunities in AI, healthcare technology, or software development.
                 </p>
               </div>
               <div className="flex justify-center">

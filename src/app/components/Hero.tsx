@@ -3,7 +3,7 @@
 import Link from 'next/link';
 import { FaGithub } from 'react-icons/fa';
 import { motion } from 'framer-motion';
-import { fadeInUp, fadeIn, scaleIn } from '@/utils/animations';
+import { fadeInUp, fadeIn } from '@/utils/animations';
 
 export default function Hero() {
   return (
